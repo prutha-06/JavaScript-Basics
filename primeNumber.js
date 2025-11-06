@@ -11,5 +11,4 @@ console.log(isPrime(10));
 
 console.log("******************");
 
-let a=10;
-console.log(a);
+
