@@ -11,4 +11,4 @@ console.log(isPrime(10));
 
 console.log("******************");
 
-
+    
